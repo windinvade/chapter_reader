@@ -1,37 +1,14 @@
-## *** chapter_reader ***
+## chapter_reader
 
-You can use the [editor on GitHub](https://github.com/windinvade/chapter_reader/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+说明中所有的【xxx】均为侧重表达的意思，无其它含义。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. 本地阅读教程
 
-### Markdown
+#### 章节阅读模式：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 输入小说标题对应的正则表达式，例：
+   * 【第1238章 xxxxxx标题】正则为：【第.\*章.\*】
+   * 【第一卷 第2章 xxxxxx标题】正则：【第.\*章.\*】也可以识别
 
-```markdown
-Syntax highlighted code block
+请注意：有些小说的额外说明里，会有【第x章 xxxx】这样的内容，也会被识别为标题，所以发现这样的情况，在你填写正则的基础上，加上【^】开头，表示只识别【第】开头xxxxx的内容，可以有效过滤这种情况。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/windinvade/chapter_reader/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
