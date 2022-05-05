@@ -2,7 +2,7 @@
 
 支持jetbrains全家桶
 
-文档中所有的【xxx】均为侧重表达的意思，无其它含义。
+文档中所有用【】括起来，均为侧重表达的意思，无其它含义。
 
 
 
@@ -100,3 +100,12 @@ IDEA | File | Settings | Keymap | Plug-ins | 搜索 Read 自行设置
 - 鼠标多功能按键
 - 按键 + 鼠标滚轮 (必须是按键+鼠标滚轮, 否则会因优先级的问题, 无法生效)
 - 组合快捷键(会很累)
+
+
+
+如果好用，还请赞赏鼓励持续更新
+
+<div style="display:flex;">
+    <img src="https://img-blog.csdnimg.cn/20210713161400215.png" width="49%" height="700px"><img src="https://img-blog.csdnimg.cn/20210713162109319.jpeg"   width="49%" height="700px">
+</div>
+
