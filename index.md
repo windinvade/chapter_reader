@@ -106,6 +106,6 @@ IDEA | File | Settings | Keymap | Plug-ins | 搜索 Read 自行设置
 如果好用，还请赞赏鼓励持续更新
 
 <div style="display:flex;">
-    <img src="https://img-blog.csdnimg.cn/20210713161400215.png" width="49%" height="700px"><img src="https://img-blog.csdnimg.cn/20210713162109319.jpeg"   width="49%" height="700px">
+    <img src="https://img-blog.csdnimg.cn/20210713161400215.png" width="49%" height="700px"><img src="https://img-blog.csdnimg.cn/20210713162109319.jpeg"   width="49%" height="600px">
 </div>
 
